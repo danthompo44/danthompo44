@@ -29,10 +29,9 @@
 ---
 
 ### 🌱 What I’m Working On
-
-- 🚀 Building open-source tools with modern web stacks
-- 🛠️ Contributing to collaborative planning tools (like Scrum Poker)
-- 🧪 Writing automation frameworks and tools that scale
+<p>
+  - 🚀 Preservation - Next.js, FastAPI and MongoDB reservation system. Build your object schemas, create your objects, build relationships, create and manage reservations.
+</p>
 
 ---
 
