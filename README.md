@@ -8,9 +8,6 @@
 
 ---
 
-### 🛠️ Tech Stack
-
----
 
 #### 👨‍💻 Day Job Tech
 <p align="left">
