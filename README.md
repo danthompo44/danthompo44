@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi there 👋, I'm Dan Thompson</h1>
 
 <p align="center">
   🧪 Automation Engineer by day &nbsp;|&nbsp; 🌙 Open Source Dev by night
