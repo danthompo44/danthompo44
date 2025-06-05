@@ -1,5 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Dan Thompson</h1>
 
+---
+
 <p align="center">
   🧪 Automation Engineer by day &nbsp;|&nbsp; 🌙 Open Source Dev by night
 </p>
@@ -7,6 +9,8 @@
 ---
 
 ### 🛠️ Tech Stack
+
+---
 
 #### 👨‍💻 Day Job Tech
 <p align="left">
@@ -17,6 +21,8 @@
   <img src="https://img.shields.io/badge/Appium-00B5D8?style=flat&logo=appium&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
 </p>
+
+---
 
 #### 🌌 Evening Stack
 <p align="left">
@@ -29,9 +35,9 @@
 ---
 
 ### 🌱 What I’m Working On
-<p>
+
   - 🚀 Preservation - Next.js, FastAPI and MongoDB reservation system. Build your object schemas, create your objects, build relationships, create and manage reservations. [Check it out!](https://github.com/tyrant-101/Preservation)
-</p>
+
 
 ---
 
