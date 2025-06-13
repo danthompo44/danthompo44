@@ -33,5 +33,5 @@
 
 ### 🌱 What I’m Working On
 
-  - 🚀 Preservation - Next.js, FastAPI and MongoDB reservation system. Build your object schemas, create your objects, build relationships, create and manage reservations. [Check it out!](https://github.com/tyrant-101/Preservation)
+  - 🚀 Preservation - Next.js, FastAPI and MongoDB reservation system. Build your object schemas, create your objects, build relationships, create and manage reservations. [Check it out! WIP](https://github.com/tyrant-101/Preservation)
 
